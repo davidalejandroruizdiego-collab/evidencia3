@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="primary_color">#003D73</color>
+    <color name="primary_dark">#002C52</color>
+    <color name="primary_light_accent">#0057A7</color>
+
+    <color name="primary_color_light">#409CFF</color>
+    <color name="primary_dark_light">#0069C0</color>
+
+    <color name="secondary_color">#2A3A4D</color>
+    <color name="secondary_dark">#1E2B3A</color>
+    <color name="secondary_light">#405063</color>
+
+    <color name="accent_color">#00C4FF</color>
+    <color name="accent_warning_orange">#FF7043</color>
+    <color name="accent_info_blue">#17A2B8</color>
+
+    <color name="background_dark">#0D1117</color> <color name="background_light">#F5F7FA</color> <color name="background_light_panel">#2A3A4D</color> <color name="text_primary">#FFFFFF</color> <color name="text_dark_primary">#212121</color> <color name="text_secondary">#B0B0B0</color> <color name="text_dark_secondary">#757575</color> <color name="text_disabled_hint">#5A6268</color>
+
+    <color name="status_success">#28A745</color>
+    <color name="status_error">#DC3545</color>
+    <color name="status_warning">#FFC107</color>
+
 </resources>
